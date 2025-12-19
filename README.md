@@ -1,6 +1,6 @@
 # BlinkIt-Sales-Dashboard
-Blinkit Sales Analysis Dashboard built in Power BI to track total sales, item performance, outlet size and location insights using cleaned data, DAX measures, and interactive visualizations for business decisions.
 🛒 Blinkit Sales Analysis Dashboard (Power BI)
+
 📌 Project Overview
 
 This project is an end-to-end Sales Analysis Dashboard built using Microsoft Power BI, based on Blinkit (India’s Last Minute App) data.
@@ -71,19 +71,6 @@ Sales by Outlet Location (Tier 1, 2, 3)
 
 Outlet Type Performance Table
 
-🖼 Dashboard Preview
-
-(Replace dashboard.png with your uploaded image name in GitHub)
-
-📂 Project Structure
-Blinkit-Sales-Analysis/
-│
-├── Blinkit_Dashboard.pbix
-├── Dataset/
-│   └── blinkit_sales_data.csv
-├── Images/
-│   └── dashboard.png
-├── README.md
 
 🔗 How to Open & Connect the Project
 ✅ Prerequisites
